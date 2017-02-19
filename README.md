@@ -13,4 +13,3 @@ GIS es una aplicación que te permite tareas sencillas como:
 -Consulta y visualización de los servicios WMS del Catastro, Cartociudad, PNOA (Plan Nacional de Ortofotografia Aérea) y del MDT de OpenStreetMaps.
 
 Esta aplicación se ha desarrollado como objetivo de aprendizaje hace 4 años y es posible que este obsoleta para las utimas versiones de Android, disculpen los posibles errores que contenga y se agradecería que enviasen estos errores o sugerencias de mejora al correo electrónico “gisandroidapp@gmail.com”.
-
