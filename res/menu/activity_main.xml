@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/gps" android:icon="@drawable/ubicacion" android:title="Mi ubicacion"></item><item android:id="@+id/azidist" android:title="Calcula" android:icon="@drawable/rosavientos"></item><item android:id="@+id/opciones" android:title="Opciones" android:icon="@drawable/opciones">
+        <menu>
+            <item android:id="@+id/mapa" android:title="Vista Mapa"/>
+            <item android:id="@+id/satelite" android:title="Vista Satelite"/>
+            <item android:id="@+id/trafico" android:title="Vista Trafico"/>
+            <item android:id="@+id/streetview" android:title="Vista Streetview"/>
+            <item android:id="@+id/osm" android:title="OpenStreetMaps"/>
+        </menu>
+    </item><item android:id="@+id/irallugar" android:title="Ir al lugar" android:icon="@drawable/ira"></item><item android:id="@+id/WMS" android:title="Cargar WMS" android:icon="@drawable/wms">
+        <menu>
+            <item android:id="@+id/catastro" android:title="WMS Catastro" />
+            <item android:id="@+id/cartociudad" android:title="WMS Cartociudad" />
+            <item android:id="@+id/pnoa" android:title="WMS PNOA"/>
+            <item android:id="@+id/mdt" android:title="WMS OSM-MDT"/>
+        </menu>
+    </item><item android:id="@+id/acercaDe" android:title="Acerca De" android:icon="@drawable/acercade"></item>
+    
+    
+    
+    
+    
+</menu>
